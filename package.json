@@ -2,7 +2,7 @@
   "name": "project-zelion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://riyatj.github.io/project_",
+  "homepage": "https://riyatj.github.io/hanstyle",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
